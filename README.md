@@ -159,11 +159,10 @@ html_content = """<!DOCTYPE html>
 </html>
 """
 
-# Write the HTML file
-(output_dir / "index.html").write_text(html_content, encoding="utf-8")
+# Wri
 
-# Create ZIP archive
-with ZipFile("ALA_Unit_128_Website.zip", "w") as zipf:
-    zipf.write(output_dir / "index.html", arcname="index.html")
 
-print("Website zipped successfully as 'ALA_Unit_1
+
+
+
+
