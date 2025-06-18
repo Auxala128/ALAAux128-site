@@ -1,5 +1,4 @@
-from zipfile import ZipFile
-from pathlib import Path
+
 
 # Define the directory and HTML content
 output_dir = Path("ala_unit_128_site")
