@@ -156,12 +156,3 @@ html_content = """<!DOCTYPE html>
 </footer>
 </body>
 </html>
-"""
-
-# Wri
-
-
-
-
-
-
